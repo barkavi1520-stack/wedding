@@ -6,7 +6,7 @@
 // CHANGE YOUR WEDDING DATE HERE
 // Format: Year, Month (0 = January), Day, Hour, Minute
 
-const weddingDate = new Date(2026, 9, 25, 17, 0, 0);
+const weddingDate = new Date(2026, 9, 27, 17, 0, 0);
 
 
 // COUNTDOWN TIMER
@@ -105,7 +105,7 @@ rsvpForm.addEventListener("submit", function(event) {
         return;
     }
 
-    const whatsappNumber = "94770000000"; 
+    const whatsappNumber = "94774430880"; 
     // CHANGE THIS TO YOUR WHATSAPP NUMBER
     // Include country code without + sign.
 
